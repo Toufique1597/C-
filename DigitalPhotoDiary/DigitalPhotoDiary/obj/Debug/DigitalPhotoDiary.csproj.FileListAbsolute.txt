@@ -1,0 +1,10 @@
+C:\Users\rofiqul\Desktop\DigitalPhotoDiary\DigitalPhotoDiary\bin\Debug\DigitalPhotoDiary.exe.config
+C:\Users\rofiqul\Desktop\DigitalPhotoDiary\DigitalPhotoDiary\bin\Debug\DigitalPhotoDiary.exe
+C:\Users\rofiqul\Desktop\DigitalPhotoDiary\DigitalPhotoDiary\bin\Debug\DigitalPhotoDiary.pdb
+C:\Users\rofiqul\Desktop\DigitalPhotoDiary\DigitalPhotoDiary\obj\Debug\DigitalPhotoDiary.csprojResolveAssemblyReference.cache
+C:\Users\rofiqul\Desktop\DigitalPhotoDiary\DigitalPhotoDiary\obj\Debug\DigitalPhotoDiary.Diary.resources
+C:\Users\rofiqul\Desktop\DigitalPhotoDiary\DigitalPhotoDiary\obj\Debug\DigitalPhotoDiary.Properties.Resources.resources
+C:\Users\rofiqul\Desktop\DigitalPhotoDiary\DigitalPhotoDiary\obj\Debug\DigitalPhotoDiary.csproj.GenerateResource.Cache
+C:\Users\rofiqul\Desktop\DigitalPhotoDiary\DigitalPhotoDiary\obj\Debug\DigitalPhotoDiary.exe
+C:\Users\rofiqul\Desktop\DigitalPhotoDiary\DigitalPhotoDiary\obj\Debug\DigitalPhotoDiary.pdb
+C:\Users\rofiqul\Desktop\DigitalPhotoDiary\DigitalPhotoDiary\obj\Debug\DigitalPhotoDiary.ShowDiary.resources
